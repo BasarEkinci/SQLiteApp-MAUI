@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLite-MAUI", "SQLite-MAUI\SQLite-MAUI.csproj", "{CF67D6E5-34E6-4B8B-A788-DCFC45946082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF67D6E5-34E6-4B8B-A788-DCFC45946082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF67D6E5-34E6-4B8B-A788-DCFC45946082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF67D6E5-34E6-4B8B-A788-DCFC45946082}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CF67D6E5-34E6-4B8B-A788-DCFC45946082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF67D6E5-34E6-4B8B-A788-DCFC45946082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF67D6E5-34E6-4B8B-A788-DCFC45946082}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E7F7B16-0F7F-429A-BD42-8B431674C301}
+	EndGlobalSection
+EndGlobal
